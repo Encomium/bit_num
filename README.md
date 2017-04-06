@@ -1,2 +1,0 @@
-# bit_num
-Test
